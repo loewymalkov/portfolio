@@ -2,11 +2,11 @@
     font-weight: bold;
 }
 
-.img-responsive {
-    max-height: 200px;
-}
-
-
 .text-right {
     padding-right: 4em;
+}
+
+.heading {
+    float: left;
+    padding-right: 10px;
 }
