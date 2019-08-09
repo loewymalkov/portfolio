@@ -1,4 +1,6 @@
-# _Programming Portfolio_
+# PORTFOLIO
+
+## Description
 
 A project built for Epicodus. Goal is to create a portfolio using html, css, bootstrap to build on this weeks courses. 
 

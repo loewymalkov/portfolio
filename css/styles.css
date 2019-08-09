@@ -19,8 +19,3 @@ body {
 .goodbye {
     color: rgb(17, 70, 216);
 }
-
-span {
-    border: 2em;
-    border-color: brown
-}
