@@ -10,3 +10,17 @@
     float: left;
     padding-right: 10px;
 }
+
+body {
+    background: rgba(223, 231, 238, 0.801);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.goodbye {
+    color: rgb(17, 70, 216);
+}
+
+span {
+    border: 2em;
+    border-color: brown
+}

@@ -8,6 +8,10 @@ Open the file.
 
 You can find the GitHub page at: 
 
+## Known Bugs
+
+Some linked pages, namely "Animal Shelter", will not display optimally on smaller screens. 
+
 ## Use
 
 To show potential employers as well as colleagues my programming and prior work/school experience.
