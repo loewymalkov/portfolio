@@ -1,21 +1,26 @@
 .sampleHeader {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .text-right {
-    padding-right: 4em;
+  padding-right: 4em;
 }
 
 .heading {
-    float: left;
-    padding-right: 10px;
+  float: left;
+  padding-right: 10px;
 }
 
 body {
-    background: rgba(223, 231, 238, 0.801);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: rgba(223, 231, 238, 0.801);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .goodbye {
-    color: rgb(17, 70, 216);
+  color: rgb(17, 70, 216);
+}
+
+.emphasis {
+  font-weight: bold;
+  color: brown;
 }
