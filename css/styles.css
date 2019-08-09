@@ -1,8 +1,12 @@
-#header-img {
-    max-height: 350px;
-    align-content: center;
-}
-
 .sampleHeader {
     font-weight: bold;
+}
+
+.img-responsive {
+    max-height: 200px;
+}
+
+
+.text-right {
+    padding-right: 4em;
 }
