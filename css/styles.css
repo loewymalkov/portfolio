@@ -9,11 +9,12 @@
 .heading {
   float: left;
   padding-right: 10px;
+  font-size: 1.15em;
 }
 
 body {
   background: rgba(223, 231, 238, 0.801);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .goodbye {
@@ -24,3 +25,4 @@ body {
   font-weight: bold;
   color: brown;
 }
+

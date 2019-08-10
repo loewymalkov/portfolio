@@ -8,7 +8,7 @@ A project built for Epicodus. Goal is to create a portfolio using html, css, boo
 
 Open the file. 
 
-You can find the GitHub page at: 
+You can find the GitHub page at: https://loewymalkov.github.io/portfolio/
 
 ## Known Bugs
 
